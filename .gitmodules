@@ -5,6 +5,9 @@
 [submodule "influence.ME"]
 	path = influence.ME
 	url = https://github.com/cran/influence.ME
+[submodule "mKBO"]
+	path = mKBO
+	url = https://github.com/cran/mKBO
 [submodule "wec"]
 	path = wec
 	url = https://github.com/cran/wec
